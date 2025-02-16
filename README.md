@@ -1,6 +1,6 @@
 # DeSpeed Auto Bot
 
-An automated bot for managing multiple 3DOS accounts with proxy support.
+An automated bot for managing multiple DeSpeed accounts with proxy support.
 
 ## 📢 Join Our Community
 

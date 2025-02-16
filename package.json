@@ -1,0 +1,29 @@
+{
+  "name": "despeed-auto",
+  "version": "1.0.0",
+  "description": "Automated speed test reporting tool for DeSpeed platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "despeed",
+    "speedtest",
+    "automation",
+    "network"
+  ],
+  "author": "https://t.me/autocoin43",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "https-proxy-agent": "^7.0.2",
+    "kleur": "^4.1.5",
+    "node-fetch": "^2.7.0",
+    "readline": "^1.3.0",
+    "socks-proxy-agent": "^8.0.2",
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
